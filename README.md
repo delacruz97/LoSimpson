@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Proyecto en la web 
+### Imagen 1 de muestra
+</br>
+<img src="s2.png" alt="google logo" />
+
+### imagen 2 de muestra
+</br>
+<img src="s1.png" alt="google logo" />
+
+
+
+
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
