@@ -5,7 +5,7 @@
 
 ### imagen 2 de muestra
 </br>
-<img src="s1.png" alt="google logo" />
+<img src="s11.png" alt="google logo" />
 
 
 

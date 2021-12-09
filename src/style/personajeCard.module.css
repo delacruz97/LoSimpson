@@ -6,6 +6,10 @@
 .borde{
   list-style: none;
 }
+.borde:hover{
+  opacity: 0.7;
+ 
+}
 
 
 .img{

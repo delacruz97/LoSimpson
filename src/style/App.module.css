@@ -1,4 +1,10 @@
 .title{
     text-align: center;
-    text-shadow: 2px 2px #000000;
+    text-shadow: rgb(red, green, blue)
+    
+}
+
+.nav{
+    background: rgb(9,9,121);
+background: linear-gradient(90deg, rgba(9,9,121,1) 30%, rgba(255,241,0,1) 49%, rgba(9,9,121,1) 70%);
 }

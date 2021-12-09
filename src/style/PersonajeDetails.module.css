@@ -1,0 +1,21 @@
+.dettalle{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.col{
+    max-width: 400px;
+    margin: 15px;
+    height: auto;
+    height: 80%;
+}
+
+.image{
+    border-radius: 15%;
+    width: 400px;
+    height: 400px;
+}
+.texto{
+    font-size: 1.5rem;
+}
